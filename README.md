@@ -10,11 +10,11 @@ WASD: FORWARD/BACKWARD/LEFT/RIGHT</br>
 
 # Game Screenshots
 <b>Screenshot1</b></br>
-![Screenshot1](image53.jpg)</br>
+![Screenshot1](Image53.jpg)</br>
 <b>Screenshot2</b></br>
-![Screenshot2](image54.jpg)</br>
+![Screenshot2](Image54.jpg)</br>
 <b>Screenshot3</b></br>
-![Screenshot3](image55.jpg)</br>
+![Screenshot3](Image55.jpg)</br>
 
 # Video Sample
 https://www.youtube.com/watch?v=h_IfFV1lZ9k
