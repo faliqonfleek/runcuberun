@@ -1,6 +1,6 @@
 # Notes
 I'm also very well aware of the similarity to Brackey's.
-I'm still learning Unity 3D and would implement changes soon. Will take down upon request.
+I'm still learning Unity 3D and would implement more changes soon. Will take down upon request.
 
 # Run Cube, Run! (Inspired by Brackeys)
 <b>Description:</b></br>
@@ -10,14 +10,14 @@ WASD: FORWARD/BACKWARD/LEFT/RIGHT</br>
 
 # Game Screenshots
 <b>Screenshot1</b></br>
-![Screenshot1](Image53.jpg)</br>
+![Screenshot1](Image64.jpg)</br>
 <b>Screenshot2</b></br>
-![Screenshot2](Image54.jpg)</br>
+![Screenshot2](Image63.jpg)</br>
 <b>Screenshot3</b></br>
-![Screenshot3](Image55.jpg)</br>
+![Screenshot3](Image62.jpg)</br>
 
 # Video Sample
-https://www.youtube.com/watch?v=h_IfFV1lZ9k
+https://youtu.be/3jvmqdqA5rk
 
 # Credits:
 # Directed by
